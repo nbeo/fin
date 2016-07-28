@@ -1,0 +1,34 @@
+header{
+    background-color: #244751;
+    color: #E8FDFF;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+a:link { 
+    color: yellow 
+} /* unvisited links */
+a:visited { 
+    color: purple 
+} /* visited links */
+a:hover { 
+    font-weight: bold 
+} /* user hovers */
+a:active { 
+    color: lime 
+} /* active links */
+
+main{
+    background-color: white;
+    padding: 16px;
+}
+.post {
+    margin-bottom: 48px;
+}
+.post .user-info img {
+    border-radius: 50%;
+}
+
+
